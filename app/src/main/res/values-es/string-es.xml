@@ -3,10 +3,8 @@
 
     <!--Cadenas en Español de la app-->
 
-    <string name="item_name">Nombre del Artículo: </string>
-    <string name="item_add">Ingrese aquí</string>
+    <string name="item_name">Nombre del Artículo</string>
     <string name="value">Valor: $</string>
-    <string name="value_add">Cuanto cuesta?</string>
     <string name="shop">Comprar</string>
 
 

@@ -1,10 +1,8 @@
 <resources>
     <string name="app_name">Virtual Shop</string>
 
-    <string name="item_name">Item Name: </string>
-    <string name="item_add">Type the item here</string>
-    <string name="value">Value: $</string>
-    <string name="value_add">Type a value here</string>
+    <string name="item_name">Item Name </string>
+    <string name="value">Value $</string>
     <string name="shop">Shop</string>
 
 </resources>
